@@ -23,7 +23,7 @@ northwind-sql-analysis/
 ├── northwind_analisis_es.sql        # Same analysis, documented in Spanish
 ├── Reporte_Northwind.xlsx           # Excel report: results, charts, queries
 ├── Reporte_Northwind_Graficos.pdf   # PDF export of the Excel charts
-├── SQL_Reference_Eleazar_Soto.pdf   # Personal SQL reference guide
+├── SQL_Reference_Complete_Eleazar_Soto.pdf   # Personal SQL reference guide
 └── charts/                          # Chart images (queries 35–39)
 ```
 
@@ -90,7 +90,7 @@ northwind-sql-analysis/
 ├── northwind_analisis_es.sql        # El mismo análisis, documentado en español
 ├── Reporte_Northwind.xlsx           # Reporte Excel: resultados, gráficas, consultas
 ├── Reporte_Northwind_Graficos.pdf   # Exportación PDF de las gráficas del Excel
-├── SQL_Reference_Eleazar_Soto.pdf   # Guía de referencia SQL personal
+├── SQL_Reference_Complete_Eleazar_Soto.pdf   # Guía de referencia SQL personal
 └── charts/                          # Imágenes de las gráficas (consultas 35–39)
 ```
 
